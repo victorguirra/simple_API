@@ -1,5 +1,5 @@
 <div align="center">
-    <h1>Simple REST API with NodeJS no use Frameworks</h1>
+    <h2>Simple REST API with NodeJS no use Frameworks</h2>
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1200px-Node.js_logo.svg.png" alt="Node JS" width="200">
 </div>
 
@@ -7,21 +7,19 @@ Using NodeJS Native Modules and Javascript Properties for create this simple RES
 
 OBS: No database! Using Users Mock.
 
-## Node Native Modules
+### Node Native Modules
 
 - HTTP
 - URL
 
-## HTTP Protocol Methods
+### HTTP Protocol Methods
 
 - GET
 - POST
 - PUT
 - DELETE
 
-Use
-
-## Routes/Endpoints
+### Routes/Endpoints
 
 - /users 
     - GET
