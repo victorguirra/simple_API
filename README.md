@@ -21,7 +21,7 @@ OBS: No database! Using Users Mock.
 
 Use
 
-## `Routes/Endpoints`
+## Routes/Endpoints
 
 - /users 
     - GET
