@@ -7,12 +7,12 @@ Using NodeJS Native Modules and Javascript Properties for create this simple RES
 
 OBS: No database! Using Users Mock.
 
-## `Node Native Modules`
+## Node Native Modules
 
 - HTTP
 - URL
 
-## `HTTP Protocol Methods`
+## HTTP Protocol Methods
 
 - GET
 - POST
